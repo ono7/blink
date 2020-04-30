@@ -1,4 +1,5 @@
-black         =  '#282828'
+// black         =  '#282828'
+black         =  '#2e3440'
 red           =  '#ea6962'
 green         =  '#a9b665'
 yellow        =  '#e78a4e'
